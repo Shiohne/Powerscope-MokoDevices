@@ -28,4 +28,3 @@ proguard/
 .idea
 *.iml
 *.DS_Store
-/*/release/
