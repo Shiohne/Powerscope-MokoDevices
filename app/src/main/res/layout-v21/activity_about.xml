@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/grey_f5f5f5"
@@ -21,7 +22,7 @@
             android:background="@android:color/holo_purple"
             android:gravity="center"
             android:text="Contacta con PowerScope"
-            android:textColor="@color/white_ffffff"
+            android:textColor="#000000"
             android:textSize="18sp" />
 
         <ImageView
@@ -29,7 +30,8 @@
             android:layout_height="wrap_content"
             android:onClick="back"
             android:padding="16dp"
-            android:src="@drawable/back" />
+            android:src="@drawable/back"
+            tools:ignore="SpeakableTextPresentCheck" />
     </RelativeLayout>
 
     <ScrollView
@@ -77,7 +79,7 @@
                         android:drawableLeft="@android:drawable/ic_menu_call"
                         android:drawablePadding="10dp"
                         android:gravity="center_vertical"
-                        android:text="Tel"
+                        android:text="Tel."
                         android:textSize="18sp"
                         app:layout_constraintBottom_toBottomOf="parent"
                         app:layout_constraintLeft_toLeftOf="parent"
@@ -115,7 +117,7 @@
                         android:drawableLeft="?android:attr/actionModeFindDrawable"
                         android:drawablePadding="10dp"
                         android:gravity="center_vertical"
-                        android:text="Add"
+                        android:text="Dir."
                         android:textSize="18sp"
                         app:layout_constraintLeft_toLeftOf="parent"
                         app:layout_constraintTop_toTopOf="parent" />

@@ -26,7 +26,7 @@
             android:button="@null"
             android:checked="true"
             android:gravity="center"
-            android:text="Daily"
+            android:text="Diario"
             android:textColor="@drawable/selector_text_color"
             android:textSize="14sp" />
 
@@ -39,7 +39,7 @@
             android:button="@null"
             android:checked="false"
             android:gravity="center"
-            android:text="Monthly"
+            android:text="Mensual"
             android:textColor="@drawable/selector_text_color"
             android:textSize="14sp" />
     </RadioGroup>
@@ -62,7 +62,7 @@
         android:layout_marginTop="40dp"
         android:gravity="center"
         android:text="0"
-        android:textColor="@color/blue_2681ff"
+        android:textColor="@android:color/holo_purple"
         android:textSize="32sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"

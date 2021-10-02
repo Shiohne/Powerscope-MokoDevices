@@ -21,8 +21,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:includeFontPadding="false"
-        android:text="Timer"
-        android:textColor="@color/blue_2681ff"
+        android:text="Temporizador"
+        android:textColor="@android:color/holo_purple"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="@id/circular_progress"
         app:layout_constraintLeft_toLeftOf="@id/circular_progress"
@@ -35,7 +35,7 @@
         android:layout_width="120dp"
         android:layout_height="32dp"
         android:layout_marginTop="40dp"
-        app:cardBackgroundColor="@color/blue_2681ff"
+        app:cardBackgroundColor="@android:color/holo_purple"
         app:cardCornerRadius="16dp"
         app:cardPreventCornerOverlap="false"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -46,7 +46,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Set timer"
+            android:text="Iniciar"
             android:textColor="@color/white_ffffff"
             android:textSize="16sp" />
     </androidx.cardview.widget.CardView>

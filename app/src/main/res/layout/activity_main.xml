@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="55dp"
-        android:background="@color/blue_2681ff">
+        android:background="@android:color/holo_purple">
 
         <ImageView
             android:id="@+id/iv_refresh"
@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="DEVICE"
+            android:text="Dispositivos"
             android:textColor="@color/white_ffffff"
             android:textSize="18sp" />
 

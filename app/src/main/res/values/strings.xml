@@ -1,32 +1,32 @@
 <resources>
     <string name="app_name">PowerScope</string>
 
-    <string name="cancel">Cancel</string>
-    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
 
     <string name="about_moko_name">POWERSCOPE</string>
     <string name="company_website">www.powerscope.com</string>
 
-    <string name="permission_storage_close_title">Storage permission is not available</string>
-    <string name="permission_storage_close_content">Please find it in cellphone setting- permission, and allow Powerscope use the Storage permission</string>
+    <string name="permission_storage_close_title">Permiso de almacenamiento no habilitado</string>
+    <string name="permission_storage_close_content">Por favor habilitarlo desde los ajustes del telefono - permisos, y permite a Powerscope utilizar el permiso de almacenamiento</string>
     <string name="permission_open">OK</string>
-    <string name="permission_storage_need_title">Please turn on Storage permissions</string>
-    <string name="permission_storage_need_content">Powerscope requires access to Location and Storage permission. If the permissions are not on, Powerscope cannot be used normally.</string>
-    <string name="location_need_title">Turn on Location permission</string>
-    <string name="location_need_content">After that, Powerscope could search and connect with the Powerscope</string>
-    <string name="permission_location_close_title">Location persission is not available</string>
-    <string name="permission_location_close_content">Please find it in cellphone setting- permission, and allow MokoPlug use the Location and Storage permission</string>
-    <string name="permission_location_need_title">Turn on Location permission</string>
-    <string name="permission_location_need_content">After that, Powerscope could search and connect with the Powerscope</string>
+    <string name="permission_storage_need_title">Por favor encender los permisos de almacenamiento</string>
+    <string name="permission_storage_need_content">Powerscope requiere acceso a los permisos de ubicación y almacenamiento. Si los permisos están apagados, Powerscope no podrá ser utilizado con normalidad.</string>
+    <string name="location_need_title">Por favor encender la ubicación</string>
+    <string name="location_need_content">Luego de eso, Powerscope podrá realizar busquedas y conectar con Powerscope</string>
+    <string name="permission_location_close_title">Permiso de ubicación no habilitado</string>
+    <string name="permission_location_close_content">Por favor habilitarlo desde los ajustes del telefono - permisos, y permite a Powerscope utilizar el permiso de ubicación y almacenamiento</string>
+    <string name="permission_location_need_title">Por favor encender los permisos de ubicación</string>
+    <string name="permission_location_need_content">Luego de eso, Powerscope podrá realizar busquedas y conectar con Powerscope</string>
 
-    <string name="main_exit_tips">Are you sure you want to quit?</string>
-    <string name="setting_syncing">syncing</string>
-    <string name="countdown_tips">%s after countdown</string>
-    <string name="countdown_timer_on">Countdown timer (on)</string>
-    <string name="countdown_timer_off">Countdown timer (off)</string>
-    <string name="modify_device_name_empty">Device name can\'t be blank</string>
-    <string name="success">Success</string>
-    <string name="timeout">Timeout</string>
-    <string name="failed">Failed</string>
+    <string name="main_exit_tips">¿Está seguro que desea salir?</string>
+    <string name="setting_syncing">sincronizando</string>
+    <string name="countdown_tips">%s de conteo</string>
+    <string name="countdown_timer_on">Conteo (encendido)</string>
+    <string name="countdown_timer_off">Conteo (apagado)</string>
+    <string name="modify_device_name_empty">Nombre de dispositivo no puede ser vacío</string>
+    <string name="success">Éxito</string>
+    <string name="timeout">Tiempo de espera superado</string>
+    <string name="failed">Falló</string>
 
 </resources>
